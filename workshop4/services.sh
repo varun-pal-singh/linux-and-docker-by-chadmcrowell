@@ -5,3 +5,6 @@
 # Services are very common in linux system.
 
 # The grand service that control all other services is called "systemd".
+
+# You can say that systemd is the linux service that control them all.
+
