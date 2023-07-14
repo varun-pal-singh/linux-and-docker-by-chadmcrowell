@@ -1,6 +1,6 @@
 / 			        # root directory.
 
-~			        # user directory (/home/user-name/).
+~			        # user home directory (/home/user-name/).
 
 # type ls -al /
 
@@ -16,7 +16,7 @@
 
 /usr/local		    # programs installed just for that user.
 
-/lib			    # when executables in /bin need additional library files in order to run.
+/lib			    # /lib contains library that are required when executables in /bin need additional library files in order to run.
 
 /var			    # variable data (temporary).
 
